@@ -20,6 +20,6 @@ public class Main {
         System.out.println("Binary Search Result: " + (foundBinary != null ? foundBinary.productName : "Not Found"));
 
         Product notFoundBinary = ProductSearch.binarySearch(products, "iPhone");
-        System.out.println("Binary Search Result :" + (notFoundBinary != null ? notFoundBinary.productName : "Not Found"));
+        System.out.println("Binary Search Result : " + (notFoundBinary != null ? notFoundBinary.productName : "Not Found"));
     }    
 }
