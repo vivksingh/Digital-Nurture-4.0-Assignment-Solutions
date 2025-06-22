@@ -1,18 +1,16 @@
-## Getting Started
+## Exercise 7: Financial Forecasting
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Scenario: 
+You are developing a financial forecasting tool that predicts future values based on past data.
 
-## Folder Structure
+# Steps:
+1.	Understand Recursive Algorithms:
+o	Explain the concept of recursion and how it can simplify certain problems.
+2.	Setup:
+o	Create a method to calculate the future value using a recursive approach.
+3.	Implementation:
+o	Implement a recursive algorithm to predict future values based on past growth rates.
+4.	Analysis:
+o	Discuss the time complexity of your recursive algorithm.
+o	Explain how to optimize the recursive solution to avoid excessive computation.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
